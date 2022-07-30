@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+.title{
+    color: white;
+    text-align: center;
+}
+.title2{
+    margin-top: 4px;
+    color: white;
+    text-align: center;
+}
+
+.app {
+    padding: 50px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.app2 {
+    padding: 34px;
+    display: flex;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.covid {
+    background-color: blue;
+    height: 118px;
+    width: 400px;
+    margin: 12px;
+}
+.recover{
+    background-color: green;
+    height: 118px;
+    width: 400px;
+    margin: 12px;
+}
+.confirm{
+    background-color: yellowgreen;
+    height: 118px;
+    width: 400px;
+    margin: 12px;
+}
+.deaths{
+    background-color: orangered;
+    height: 118px;
+    width: 400px;
+    margin: 12px;
+}
+.active{
+    background-color: blueviolet;
+    height: 118px;
+    width: 400px;
+    margin: 12px;
+}
+.update{
+    background-color: salmon;
+    height: 118px;
+    width: 400px;
+    margin: 12px;
+}
